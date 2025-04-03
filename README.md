@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Preview)
+![Portfolio Preview](https://raw.githubusercontent.com/DzarelDeveloper/MobilePortfolio/refs/heads/main/preview.png)
 
 > Repositori ini berisi kode sumber untuk portfolio. Dibangun dengan teknologi modern untuk menampilkan proyek dan pengalaman secara profesional.
 
@@ -30,7 +30,7 @@
 
 ## 📌 Demo
 
-🔗 [Lihat Demo](https://your-portfolio-demo-link.com)
+🔗 [Lihat Demo](https://dzareldeveloper.github.io/MobilePortfolio/)
 
 ## 📬 Kontak
 
